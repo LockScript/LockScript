@@ -1,5 +1,7 @@
 ### Welcome to LockScript: Your Trusted Cybersecurity Partner! 👋
 
+![Logo image](IMG_4219.png)
+
 #### Who Are We?
 At LockScript, we're not just another tech company; we're your dedicated cybersecurity partner, committed to safeguarding your digital assets and privacy. With a passion for innovation and a relentless pursuit of security excellence, we stand at the forefront of the cybersecurity landscape, providing cutting-edge solutions and unparalleled expertise to protect you in an ever-evolving digital world.
 
