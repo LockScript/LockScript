@@ -3,7 +3,16 @@
 ![Logo image](IMG_4219.png)
 
 #### Who Are We?
-At LockScript, we're not just another tech company; we're your dedicated cybersecurity partner, committed to safeguarding your digital assets and privacy. With a passion for innovation and a relentless pursuit of security excellence, we stand at the forefront of the cybersecurity landscape, providing cutting-edge solutions and unparalleled expertise to protect you in an ever-evolving digital world.
+At LockScript, we're not just another tech company; we're your dedicated cybersecurity partner, committed to safeguarding your digital assets and privacy. As a comprehensive cyber security suite, we offer a range of cutting-edge solutions, including encrypted email, a fully encrypted password manager, an encrypted drive, and an encrypted calendar. With a passion for innovation and a relentless pursuit of security excellence, we stand at the forefront of the cybersecurity landscape, providing unparalleled expertise to protect you in an ever-evolving digital world.
+
+#### Services
+
+At LockScript, we offer a comprehensive cyber security suite designed to protect your digital assets and privacy. Our services include:
+
+- **Encrypted Email** (LockScript Mail): Secure your communications with our state-of-the-art encrypted email service.
+- **Encrypted Password Manager** (LockScript Vault): Keep your passwords safe with our fully encrypted password management solution.
+- **Encrypted Drive** (LockScript Drive): Store and share your files securely with our encrypted drive.
+- **Encrypted Calendar** (LockScript Calendar): Manage your schedule with confidence using our encrypted calendar.
 
 #### Our Mission:
 Our mission at LockScript is simple yet profound: to empower individuals and organizations with robust cybersecurity solutions that inspire confidence and peace of mind. Whether you're a small business looking to fortify your online presence or a large enterprise navigating complex security challenges, we're here to equip you with the tools and knowledge you need to thrive securely.
