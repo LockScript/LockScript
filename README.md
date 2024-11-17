@@ -1,6 +1,6 @@
 ### Welcome to LockScript: Your Trusted Cybersecurity Partner! 👋
 
-![Logo image](IMG_4219.png)
+![Logo image](ls-01.png)
 
 #### Who Are We?
 At LockScript, we're not just another tech company; we're your dedicated cybersecurity partner, committed to safeguarding your digital assets and privacy. As a comprehensive cyber security suite, we offer a range of cutting-edge solutions, including encrypted email, a fully encrypted password manager, an encrypted drive, and an encrypted calendar. With a passion for innovation and a relentless pursuit of security excellence, we stand at the forefront of the cybersecurity landscape, providing unparalleled expertise to protect you in an ever-evolving digital world.
